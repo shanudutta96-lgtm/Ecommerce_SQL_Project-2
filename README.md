@@ -12,8 +12,6 @@ PostgreSQL schema design for E-commerce database (Task 1: Database Setup and Sch
   - invoices (1) → invoice_items (many)
   - products (1) → invoice_items (many)
 
-### 🧩 ER Diagram
-Located in `er_diagram/online_retail_erd.png`
 
 ### ⚙️ Tools Used
 - PostgreSQL (pgAdmin)
