@@ -19,3 +19,10 @@ PostgreSQL schema design for E-commerce database (Task 1: Database Setup and Sch
 
 ### 🏁 Outcome
 A well-structured normalized schema ready for data import and analysis
+
+
+## Task 2: Data Insertion and Handling Nulls
+This task demonstrates inserting, updating, and deleting records in the PostgreSQL e-commerce database.
+- Inserted records with NULL values
+- Updated missing data using UPDATE
+- Deleted unwanted rows using DELETE
