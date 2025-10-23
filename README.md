@@ -26,3 +26,11 @@ This task demonstrates inserting, updating, and deleting records in the PostgreS
 - Inserted records with NULL values
 - Updated missing data using UPDATE
 - Deleted unwanted rows using DELETE
+
+- ## Task 3: Writing Basic SELECT Queries
+This task focuses on retrieving data from the e-commerce database.
+- Used SELECT * and specific columns
+- Filtered records with WHERE, AND, OR, LIKE, and BETWEEN
+- Sorted results using ORDER BY
+- Limited output with LIMIT
+- Joined multiple tables to extract meaningful data
