@@ -34,3 +34,11 @@ This task focuses on retrieving data from the e-commerce database.
 - Sorted results using ORDER BY
 - Limited output with LIMIT
 - Joined multiple tables to extract meaningful data
+
+- ## Task 4: Aggregate Functions and Grouping
+This task focuses on summarizing and analyzing tabular data.
+- Used aggregate functions: `SUM`, `COUNT`, `AVG`
+- Grouped data using `GROUP BY`
+- Filtered aggregated results with `HAVING`
+- Calculated total sales, average price, and customer spending summaries
+
